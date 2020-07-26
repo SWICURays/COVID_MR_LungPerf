@@ -1,6 +1,8 @@
 COVID_MR_LungPerf
 
-Code provided under GNU GPLv3.
+Code provided under GNU GPLv3 for T1perfusion.
+
+Imtool3D is forked from Tanguy Duval and originally from Justin Solomon. See separate LICENSE.
 
 This is code used in Rysz et al. for generating T1 weighted perfusion Time-To-Peak analysis.
 
